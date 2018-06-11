@@ -1,5 +1,5 @@
 def new_hash
-   = {}
+  hash_me_outside = {}
 end
 
 def actor
